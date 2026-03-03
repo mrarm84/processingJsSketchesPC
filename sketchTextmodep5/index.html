@@ -1,0 +1,37 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>textmode.js sketch</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #666;
+            font-family: monospace;
+        }
+        canvas {
+            display: block;
+            border: 2px solid red;
+            background: black;
+        }
+        #debug {
+            position: absolute;
+            top: 50px;
+            left: 10px;
+            background: rgba(255, 255, 255, 0.9);
+            color: black;
+            padding: 10px;
+            font-size: 12px;
+            z-index: 1000;
+        }
+    </style>
+
+    <!-- Standard bundle (with embedded UrsaFont) -->
+    <script src="https://cdn.jsdelivr.net/npm/textmode.js@latest/dist/textmode.umd.js"></script>
+</head>
+<body>
+    <div id="debug">Loading textmode.js...</div>
+    <script src="sketchTextmodep5.js"></script>
+</body>
+</html>

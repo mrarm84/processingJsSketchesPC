@@ -1,0 +1,17 @@
+[
+    {
+        "id": "sketch001",
+        "name": "Particle System",
+        "files": ["sketch.pde"]
+    },
+    {
+        "id": "sketch002",
+        "name": "Wave Patterns",
+        "files": ["sketch.pde", "wave.js"]
+    },
+    {
+        "id": "sketch003",
+        "name": "Generative Art",
+        "files": ["sketch.pde", "shapes.js", "colors.js"]
+    }
+]

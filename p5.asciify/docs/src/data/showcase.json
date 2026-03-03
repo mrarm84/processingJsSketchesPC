@@ -1,0 +1,71 @@
+[
+  {
+    "image": "/img/showcase/textmode-art.png",
+    "title": "textmode.art",
+    "category": "tool",
+    "description": "A web-based tool for creating dynamic textmode art from images, video, and more. Features multi-layer support, custom fonts, creative effects, and flexible export options.",
+    "url": "https://textmode.art",
+    "creator": {
+      "name": "humanbydefinition",
+      "github": "humanbydefinition",
+      "mastodon": "https://mastodon.social/@humanbydefinition",
+      "instagram": "https://instagram.com/humanbydefinition",
+      "website": "https://p5.textmode.art"
+    }
+  },
+  {
+    "image": "/img/showcase/place-textmode-art.png",
+    "title": "place.textmode.art",
+    "category": "tool",
+    "description": "A collaborative textmode art platform inspired by Reddit’s r/place.",
+    "url": "https://place.textmode.art",
+    "creator": {
+      "name": "humanbydefinition",
+      "github": "humanbydefinition",
+      "mastodon": "https://mastodon.social/@humanbydefinition",
+      "instagram": "https://instagram.com/humanbydefinition",
+      "website": "https://p5.textmode.art"
+    }
+  },
+  {
+    "image": "/img/showcase/face-segmentation.png",
+    "title": "Face segmentation with ml5.js",
+    "category": "sketch",
+    "description": "A sketch that uses ml5.js to segment faces in images, creating a unique textmode art effect.",
+    "url": "https://openprocessing.org/sketch/2661023",
+    "creator": {
+      "name": "humanbydefinition",
+      "github": "humanbydefinition",
+      "mastodon": "https://mastodon.social/@humanbydefinition",
+      "instagram": "https://instagram.com/humanbydefinition",
+      "website": "https://p5.textmode.art"
+    }
+  },
+  {
+    "image": "/img/showcase/ghastly-wither.png",
+    "title": "Ghastly Wither",
+    "category": "tool",
+    "description": "Transform your 3D models into eye-catching ASCII and dithered art.",
+    "url": "https://anna-rieder.ch/ghastlywither/",
+    "creator": {
+      "name": "Anna Rieder",
+      "github": "anna-rie",
+      "instagram": "annarieder.png",
+      "website": "https://anna-rieder.ch/"
+    }
+  },
+  {
+    "image": "/img/showcase/charsets-textmode-art.png",
+    "title": "charsets.textmode.art",
+    "category": "tool",
+    "description": "A font viewer and character set explorer for textmode art enthusiasts. Build and test character sets in a user-friendly interface.",
+    "url": "https://charsets.textmode.art",
+    "creator": {
+      "name": "humanbydefinition",
+      "github": "humanbydefinition",
+      "mastodon": "https://mastodon.social/@humanbydefinition",
+      "instagram": "https://instagram.com/humanbydefinition",
+      "website": "https://p5.textmode.art"
+    }
+  }
+]
